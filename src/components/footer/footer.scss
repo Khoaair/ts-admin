@@ -1,0 +1,11 @@
+.footer {
+  padding: 3rem;
+  span {
+    &:first-child {
+      font-weight: bold;
+    }
+    &:last-child {
+      font-size: 1.4rem;
+    }
+  }
+}
